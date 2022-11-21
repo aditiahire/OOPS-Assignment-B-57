@@ -13,7 +13,7 @@
 ### Requirements JAVA 8
 How to run
 ```
- git clone https://github.com/OM28-bhoge/Practical-Assignment-OmBhoge-2.git
+ git clone https://github.com/aditiahire/OOPS-Assignment-B-57.git
  cd OOPS-Assignment-B-57
 ```
 In Command Prompt
