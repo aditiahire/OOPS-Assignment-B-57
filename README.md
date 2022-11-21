@@ -23,14 +23,14 @@ In Command Prompt
 ```
 ## Screenshots
 ### Welcome Message
-![Screenshot (35)](https://user-images.githubusercontent.com/114462074/202759990-fca876df-577f-487d-b173-fed6d265632d.png)
+![0](https://github.com/aditiahire/OOPS-Assignment-B-57/blob/main/Screenshots/0.png)
 ### User Input
-![Screenshot (36)](https://user-images.githubusercontent.com/114462074/202760597-2f4c5c9d-47f7-4891-b2e2-461d8daa2f6a.png)
+![1](https://github.com/aditiahire/OOPS-Assignment-B-57/blob/main/Screenshots/1.png)
 ### Travel/Details Output
-![Screenshot (37)](https://user-images.githubusercontent.com/114462074/202761009-f415eecf-6da4-4805-842c-15e775ec58b2.png)
+![2](https://github.com/aditiahire/OOPS-Assignment-B-57/blob/main/Screenshots/2.png)
 ### Report Output
-![Screenshot (38)](https://user-images.githubusercontent.com/114462074/202761498-b9564edc-140b-4234-b805-65a5ddcb96cd.png)
+![4](https://github.com/aditiahire/OOPS-Assignment-B-57/blob/main/Screenshots/4.png)
 ### Good Bye Message
-![Screenshot (39)](https://user-images.githubusercontent.com/114462074/202761996-5424e9b1-ad40-4a59-875e-0d7c28cef27b.png)
+![6](https://github.com/aditiahire/OOPS-Assignment-B-57/blob/main/Screenshots/6.png)
 
 TODO: Project Finished
