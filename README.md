@@ -1,8 +1,8 @@
 # OOPS-Assignment-B-57
-OOPS Java Assignment for Cab Sharing
+
 # RIDE-SHARING CHARGES ESTIMATOR AND COMPARISON SYSTEM
 
-Java Assesment
+
 ## About me
 
 ### Aditi Ahire
