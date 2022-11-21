@@ -14,7 +14,7 @@
 How to run
 ```
  git clone https://github.com/OM28-bhoge/Practical-Assignment-OmBhoge-2.git
- cd Practical-Assignment-OmBhoge-2
+ cd OOPS-Assignment-B-57
 ```
 In Command Prompt
 ```cmd
